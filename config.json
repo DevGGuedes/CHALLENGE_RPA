@@ -1,4 +1,10 @@
 {
     "application_name": "VS_RH_PROCESSO_VOTORAMTIM",
-    "version": "1.0"
+    "version": "1.0",
+    "UrlSite": "https://www.latimes.com/",
+    "Wait": "50",
+
+    "XpathButtonSearech":"/html/body/ps-header/header/div[2]/button",
+    "XpathInputSearch":"/html/body/ps-header/header/div[2]/button",
+    "XpathFormSearch":"/html/body/ps-header/header/div[2]/div[2]/form/button"
 }
